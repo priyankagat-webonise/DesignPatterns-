@@ -1,0 +1,7 @@
+1)  Create interface to implement sort algorithm.
+2)  Create class QuickSort and class MergeSort.
+3)  Create method algorithm in class QuickSort and MergeSort.
+4)  Implement Quick Sort in method algorithm of class QuickSort and implement Merge Sort in method algorithm of MergeSort class.
+5) Create class context.
+6) Implement interface in context class.
+7) Create demo class which contains main method in it. 
